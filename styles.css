@@ -1,9 +1,10 @@
 :root {
-  --bg: #000000;
-  --panel: #0F1822;
+  /* Color Book (Brand/Guidelines), Deep marine, 2026-10-21 */
+  --bg: #091624;
+  --panel: #112437;
   --text: #F4F1EA;
   --muted: #9AA8B8;
-  --line: #3B4A5C;
+  --line: #21374F;
   --brass: #D4AF6A;
   --sea: #5BB4E5;
 }
